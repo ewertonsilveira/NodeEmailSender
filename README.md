@@ -1,7 +1,7 @@
 # NodeEmailSender
-Send email with Node.js
+Send email with Node.js and Mandrill
 
-Created to test sending email with node.js and Mandrill (smtp host for sending emails)
+Created to test sending email via node.js and Mandrill (smtp host for sending emails)
 
 Feel Free to use it.
 
@@ -10,7 +10,6 @@ Built with:
 #Bootstrap
 #Node.js
 #Express
-#Express-generator
 #Mongoose
 #Mongodb
 #Mongolab
