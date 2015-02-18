@@ -1,8 +1,8 @@
 
 process.env.PORT = 8111;
 process.env.EMAIL = 'ewertonsilveira@live.com',
-process.env.U = 'ewertonsilveira@live.com';
-process.env.PW = 'YukA5TtHZKKrHvCw2vQQHg';
+process.env.U = 'mandrill@mandrill.com'; // Used Mandrill username
+process.env.PW = 'hashKey'; // Used Mandrill 
 
 var express = require('express');
 var path = require('path');
